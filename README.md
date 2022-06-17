@@ -38,3 +38,5 @@ Meie lahendus on mõeldud konkreetsete Exceli ülesannete kontrollimiseks. Valit
  9 - Valige faili salvestamise koht
  
  # [Testid](https://docs.google.com/document/d/1pFNqG9TLpT1YzeC5V1awnxfWN56ZR4OcLS5reTIeQHg/)
+ ![image](https://user-images.githubusercontent.com/90237364/174277458-b636a0d7-9c3d-4f67-a167-8b8648346b23.png)
+
