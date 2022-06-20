@@ -34,7 +34,7 @@ Meie lahendus on m천eldud konkreetsete Exceli 체lesannete kontrollimiseks. Eesm�
  5 - Kl천psake - "Upload"  
  6 - Valige failid ja laadige need 체les  
  7 - Kl천psake - "Kontroll"  
- 8 - Kui programm on failid 채ra kontrollinud siis annab ta sellest teada ja consooli kuva saab sulgeda vajutades enter klahvi
+ 8 - Kui programm on failid 채ra kontrollinud siis annab ta sellest teada ja konsooli kuva saab sulgeda enter klahviga
  9 - Valige faili salvestamise koht
  
  # [Testid](https://docs.google.com/document/d/1pFNqG9TLpT1YzeC5V1awnxfWN56ZR4OcLS5reTIeQHg/)
