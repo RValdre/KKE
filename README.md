@@ -10,7 +10,7 @@ Meie lahendus on mõeldud konkreetsete Exceli ülesannete kontrollimiseks. Eesm�
 # Techstack
 
 ### Python - 3.9  
-* Openpyxl - 3.0.10
+* Openpyxl - 3.0.10 
 * Pyinstaller -  5.1
 * Zip-files 0.4.1  
 
