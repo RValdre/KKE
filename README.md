@@ -34,7 +34,7 @@ Meie lahendus on mõeldud konkreetsete Exceli ülesannete kontrollimiseks. Eesm�
  5 - Klõpsake - "Upload"  
  6 - Valige failid ja laadige need üles  
  7 - Klõpsake - "Kontroll"  
- 8 - Kui näete teadet, et kõik on kontrollitud ja konsool sulgub ise, võite klõpsata "Download"
+ 8 - Kui programm on failid ära kontrollinud siis annab ta sellest teada ja consooli kuva saab sulgeda vajutades enter klahvi
  9 - Valige faili salvestamise koht
  
  # [Testid](https://docs.google.com/document/d/1pFNqG9TLpT1YzeC5V1awnxfWN56ZR4OcLS5reTIeQHg/)
