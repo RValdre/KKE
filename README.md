@@ -25,20 +25,7 @@ Meie lahendus on mõeldud konkreetsete Exceli ülesannete kontrollimiseks. Eesm�
 * Tõnis Põld
 * Gregor-Tanieel Kornav
 
-# Kuidas joosta:
-
- 1 - Kopeerige hoidla ja pakkige programm lahti  
- 2 - Käivitage fail KKE.exe  
- 3 - Klõpsake nuppu "Start"  
- 4 - Valige loendist ülesanne  
- 5 - Klõpsake - "Upload"  
- 6 - Valige failid ja laadige need üles  
- 7 - Klõpsake - "Kontroll"  
- 8 - Kui programm on failid ära kontrollinud siis annab ta sellest teada ja konsooli kuva saab sulgeda enter klahviga
- 9 - Valige faili salvestamise koht
+ # [Kasutusjuhend](https://docs.google.com/document/d/1bYOjbNqanSfSt7IUlWjoW5dA7j0MfoB2/edit?usp=sharing&ouid=110503012990584289652&rtpof=true&sd=true)
  
  # [Testid](https://docs.google.com/document/d/1pFNqG9TLpT1YzeC5V1awnxfWN56ZR4OcLS5reTIeQHg/)
  ![image](https://user-images.githubusercontent.com/90237364/174277458-b636a0d7-9c3d-4f67-a167-8b8648346b23.png)
- 
- # [Kasutusjuhend](https://docs.google.com/document/d/1bYOjbNqanSfSt7IUlWjoW5dA7j0MfoB2/edit?usp=sharing&ouid=110503012990584289652&rtpof=true&sd=true)
-
