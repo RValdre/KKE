@@ -30,7 +30,3 @@ Meie lahendus on mõeldud konkreetsete Exceli ülesannete kontrollimiseks. Eesm�
 
  # [Kasutusjuhend](https://docs.google.com/document/d/1bYOjbNqanSfSt7IUlWjoW5dA7j0MfoB2/edit?usp=sharing&ouid=110503012990584289652&rtpof=true&sd=true)
  
- # [Tellijapoolne hindamine](https://docs.google.com/document/d/1iAa9K6bKXs_dlA-rD7S-f9F0INgh40-H/edit?usp=sharing&ouid=110517616587713605816&rtpof=true&sd=true)
- 
- # [Testid](https://docs.google.com/document/d/1pFNqG9TLpT1YzeC5V1awnxfWN56ZR4OcLS5reTIeQHg/)
- ![image](https://user-images.githubusercontent.com/90237364/174277458-b636a0d7-9c3d-4f67-a167-8b8648346b23.png)
